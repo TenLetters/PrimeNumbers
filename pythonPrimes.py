@@ -1,5 +1,5 @@
 #title		:pythonPrimes.py
-#author		:Alex Ciaramella
+#author		:Alex Ciaramella, Greg Suner
 #date		:10/22/14
 #usage		:python pythonPrimes.py
 
